@@ -1,0 +1,11 @@
+{
+    "12": {
+        "name": "LLaMA 70b"
+    },
+    "14": {
+        "name": "Gemma 7b"
+    },
+    "16": {
+        "name": "Mistral 8x7b"
+    }
+}
